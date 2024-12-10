@@ -6,7 +6,7 @@ import image1 from "@/public/space-copenhagen-the-stratford-architonic-jw-25-12-
 import image2 from "@/public/space-copenhagen-the-stratford-architonic-jw-26-11-arcit18 1.png";
 import vector2 from "@/public/Vector 3.svg";
 import label from "@/public/labelHero.svg";
-import label2 from "@/public/labela.svg";
+import labela from "@/public/labela.svg";
 
 const About = () => {
 
