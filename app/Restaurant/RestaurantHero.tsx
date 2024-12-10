@@ -16,8 +16,8 @@ const RestaurantHero = () => {
 
         <div className="relative max-sm:mt-20 max-sm:ml-16">
           <p className="text-white-100 text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%]     sm:w-[15.625rem] desktop:w-[21.875rem] largesceen:w-[25rem] text-opacity-[0.8]">
-            Bank Hotel proudly welcomes you to the Safe Restaurant, a place where you will wish you could dine every day. The restaurant offers a unique menu developed by the team of professionals led
-            by chef Mary-Ann Jones, the wine list with more than 250 items, the outstanding service, and the unforgettable atmosphere.
+            Garden Resort Hotel proudly welcomes you to the Safe Restaurant, a place where you will wish you could dine every day. The restaurant offers a unique menu developed by the team of professionals led
+            by chef  Jones, the wine list with more than 250 items, the outstanding service, and the unforgettable atmosphere.
           </p>
           <Image src={labela} alt="label" className="absolute w-[5.313rem]  -top-14 -left-14  label" />
         </div>
@@ -42,7 +42,7 @@ const RestaurantHero = () => {
         <h1 className="text-white-100 capitalize  text-2xl  xl:text-3xl desktop:text-4xl largesceen:text-[3.125rem] ">At your service</h1>
 
         <p className="text-white-100 text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%] sm:w-[15.625rem] desktop:w-[21.875rem] largesceen:w-[25rem] text-opacity-[0.8] mt-8 lg:mt-10 desktop:mt-12 largesceen:mt-16">
-          The team of the Safe Restaurant aims to exceed all expectations of our guests. Our chef worked hard to develop a unique menu that features the best meals of the European cuisine that will
+          The team of the Safe Restaurant aims to exceed all expectations of our guests. Our chef worked hard to develop a unique menu that features the best meals of the Africa cuisine that will
           match the tastes of the most demanding clients. Friendly and attentive waiters will ensure that you will enjoy your time in our restaurant.
         </p>
       </div>
@@ -73,7 +73,7 @@ const RestaurantHero = () => {
           </h1>
 
           <p className="text-white-100 text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%] w-[80%] small:w-[70%] md:w-[15.625rem] desktop:w-[21.875rem] largesceen:w-[25rem] text-opacity-[0.8] mt-8 lg:mt-10 desktop:mt-12 largesceen:mt-16">
-            If you are looking for an exclusive place to have a romantic dinner, organize a business meeting, or spend an enjoyable evening with friends, visit Safe Restaurant in Bank Hotel. With our
+            If you are looking for an exclusive place to have a romantic dinner, organize a business meeting, or spend an enjoyable evening with friends, visit Safe Restaurant in Garden Resort Hotel. With our
             delicious meals, unique interior design, and atmosphere of comfort and exquisiteness you shall never want to go to a different restaurant.
           </p>
         </div>
