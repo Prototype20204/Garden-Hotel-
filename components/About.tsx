@@ -21,7 +21,7 @@ const About = () => {
           </h1>
           <Image
             priority
-            src={}
+            src={image1}
             alt="image of some of the hotels rooms"
             placeholder="blur"
             className="w-full sm:w-[90%] max-lg:mx-auto h-[23.813rem] lg:w-[23.688rem] lg:h-[35.563rem] desktop:w-[27.688rem] desktop:h-[38.75rem] largesceen:h-[52.5rem] largesceen:w-[37.5rem]"
@@ -39,7 +39,7 @@ const About = () => {
               The five-star Garden Resort Hotel was reopened to visitors in 2016. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms,
               numerous facilities, and exceptional service.
             </p>
-            <Image src={} alt="label" className="absolute w-[5.313rem] lg:hidden top-1 right-6  label" />
+            <Image src={labela} alt="label" className="absolute w-[5.313rem] lg:hidden top-1 right-6  label" />
           </div>
         </div>
 
@@ -47,7 +47,7 @@ const About = () => {
           <div className="relative">
             <Image 
               priority
-              src={}
+              src={image2}
               alt="image of some of the hotels rooms"
               className="md:w-[10.313rem]  md:h-[15.5rem] desktop:w-[15.188rem] desktop:h-[20.625rem] largesceen:min-w-[19.625rem] largesceen:min-h-[25.875rem] max-lg:hidden"
             />
