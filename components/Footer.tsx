@@ -29,11 +29,11 @@ const Footer = () => {
       id='contacts'
       className='pb-2 sm:pb-6 pt-12 md:pt-16 lg:pt-20 w-full h-full  px-5 md:px-[1.9rem] largesceen:px-14 fourk:px-44 desktop:pt-28 2xl:pt-36 largesceen:pb-6 bg-white-100'>
       <p className='text-gradient text-2xl sm:text-3xl lg:text-[2.375rem] desktop:text-[3.125rem] largesceen:text-[5rem]   flex  h-full leading-normal w-fit mb-10  sm:mb-16 lg:mb-20 p-3 largesceen:p-5 border-b'>
-        +38 032 297 50 20
+        +254 702 048209
       </p>
 
-      <p className='text-xs uppercase lg:text-base desktop:text-lg largesceen:text-[1.625rem] text-gradient  text-end  mr-[10%]'>
-        8 Lystopadovoho <br /> Chynu,Lviv
+      <p className='text-xs uppercase lg:text-base desktop:text-lg largesceen:text-[1.625rem] text-gradient  text-end  mr-[10%]'> Bor
+        Jonglei State <br /> South Sudan
       </p>
 
       <section className='py-8 sm:py-12 lg:py-20 desktop:py-32 largesceen:py-44 flex  justify-between relative w-full'>
@@ -114,11 +114,11 @@ const Footer = () => {
           </p>
 
           <p className='text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%] w-[80%] sm:w-[10rem] md:w-[13rem] lg:w-[17rem] text-gradient text-opacity-[0.8]'>
-            The five-star hotel in a beautiful European city with a modern restaurant, conference-hall, and art-bar.
+            The five-star hotel in a beautiful African city with a modern restaurant, conference-hall, and art-bar.
           </p>
 
           <p className='text-[0.813rem] md:text-sm text-primary text-opacity-70  pt-8 hidden lg:block'>
-            ©2024 All rights reserved. BankHotel <br /> Designed by Ridwan <a href='https://ridwanyinus.is-a.dev'>ridwanyinus.is-a.dev</a>
+            ©2024 All rights reserved. Garden Resort Hotel<br /> Designed by M@ch <a href='https://ridwanyinus.is-a.dev'>ridwanyinus.is-a.dev</a>
           </p>
         </div>
 
