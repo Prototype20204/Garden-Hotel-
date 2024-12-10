@@ -32,7 +32,7 @@ const Navbar: React.FC = () => {
     <nav className={`${scroll ? "is-sticky" : ""} bg-primary flex px-5 md:px-[1.9rem] largesceen:px-14 fourk:px-44 pt-5 justify-between items-center mb-0`}>
       <div>
         <Link href="/" className="ml-4 text-white-100 capitalize lg:text-base desktop:text-xl leading-none font-medium z-[999] relative logo">
-          BankHotel
+          Garden Resort Hotel 
         </Link>
       </div>
 
@@ -51,7 +51,7 @@ const Navbar: React.FC = () => {
       </div>
 
       <div>
-        <p className="stick text-xs largesceen:text-base text-white-100 leading-none max-xl:hidden">+38 032 297 50 20</p>
+        <p className="stick text-xs largesceen:text-base text-white-100 leading-none max-xl:hidden">+254 702 048209</p>
       </div>
 
       {/* Mobile Nav */}
@@ -75,8 +75,8 @@ const Navbar: React.FC = () => {
                     </li>
                   </ul>
                 ))}
-                <p className="text-center text-white-100 text-base xs:text-xl uppercase pt-8">+38 032 297 50 20</p>
-                <p className="text-center text-white-100 text-base xs:text-xl uppercase pt-4">8 Lystopadovoho Chynu, Lviv</p>
+                <p className="text-center text-white-100 text-base xs:text-xl uppercase pt-8">+254 702 048209</p>
+                <p className="text-center text-white-100 text-base xs:text-xl uppercase pt-4">Bor, Jonglei State, South Sudan</p>
 
                 <div className="flex gap-4 justify-center pt-5">
                   <a href="/" className="text-secondary uppercase text-xs">
