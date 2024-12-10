@@ -194,7 +194,7 @@ const Hero = () => {
 
       <div className="md:flex justify-between mt-4 lg:mt-12">
         <div className="max-md:hidden">
-          <p className="text-secondary underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem] mb-2">+38 032 297 50 20</p>
+          <p className="text-secondary underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem] mb-2">254 702 0482</p>
           <p className="text-white-100 underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem]">Bor Town, Jonglei State, South Sudan</p>
         </div>
         <div>
