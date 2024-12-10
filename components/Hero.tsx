@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useEffect, useState, useRef } from "react";
 import Swal from "sweetalert2";
 import "animate.css";
@@ -7,6 +7,7 @@ import Image from "next/image";
 import star8 from "@/public/Star 8.svg";
 import vector4 from "@/public/Vector 4.svg";
 import divider from "@/public/Rectangle 68.svg";
+import hero from "next/image";
 import hero from "@/public/space-copenhagen-the-stratford-architonic-rs-8-03-arcit18 1.png";
 import DateTimePicker from "./DateTimePicker";
 
@@ -92,8 +93,7 @@ const Hero = () => {
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
-  }, [])
-  
+  }, []);
 
   return (
     <main className=" bg-primary mt-0 py-14 lg:pt-20  px-5 md:px-[1.9rem] largesceen:px-14 fourk:px-44">
