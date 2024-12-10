@@ -1,4 +1,4 @@
-"use client";
+"use client"
 import React, { useEffect, useState, useRef } from "react";
 import Swal from "sweetalert2";
 import "animate.css";
@@ -92,7 +92,7 @@ const Hero = () => {
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
-  }, []);
+  }, [])
   
 
   return (
