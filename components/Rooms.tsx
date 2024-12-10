@@ -142,7 +142,7 @@ const Rooms = () => {
 
             <div className="max-sm:flex flex-row-reverse justify-between max-sm:mt-8">
               <p className="text-gradient text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%] w-[13.813rem] sm:w-[70%] lg:w-[250px] desktop:w-[20.938rem] text-opacity-[0.8]">
-                The five-star Bank Hotel was reopened to visitors in 2016. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms,
+                The five-star Garden Resort Hotel was reopened to visitors in 2010. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms,
                 numerous facilities, and exceptional service.
               </p>
               <a href="/" className="w-[3rem] xs:w-[4rem]  sm:hidden">
