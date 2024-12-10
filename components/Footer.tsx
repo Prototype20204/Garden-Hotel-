@@ -162,7 +162,7 @@ const Footer = () => {
         </div>
       </section>
       <p className='text-[0.813rem] md:text-sm text-primary text-opacity-70 pt-6 text-center  sm:hidden'>
-        ©{date.getFullYear()} All rights reserved. BankHotel <br /> Designed by Ridwan <a href='https://ridwanyinus.is-a.dev'>ridwanyinus.is-a.dev</a>
+        ©{date.getFullYear()} All rights reserved. Garden Resort Hotel<br /> Designed by M@ch<a href='https://ridwanyinus.is-a.dev'>ridwanyinus.is-a.dev</a>
       </p>
     </footer>
   );
