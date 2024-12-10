@@ -28,7 +28,7 @@ const Facilities = () => {
         <div className="flex flex-col justify-between">
           <div>
             <p className="max-sm:text-right text-gradient text-xs uppercase lg:text-base 2xl:text-lg largesceen:text-[1.625rem]">
-              Art & Congress <br />
+              Art & Conference <br />
               hall
             </p>
           </div>
@@ -55,7 +55,7 @@ const Facilities = () => {
 
           <div>
             <p className="text-gradient text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%] w-[13.813rem] sm:w-[70%] lg:w-[250px] desktop:w-[20.938rem] text-opacity-[0.8] max-sm:mt-12 xs:ml-[35%] sm:ml-0">
-              Bank Hotel offers you a wide range of additional services and facilities. Visit our restaurant to try exclusive meals, book a conference hall to organize a business meeting, or relax in
+              Garden Resort Hotel offers you a wide range of additional services and facilities. Visit our restaurant to try exclusive meals, book a conference hall to organize a business meeting, or relax in
               the art-bar.
             </p>
           </div>
