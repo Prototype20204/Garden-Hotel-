@@ -125,7 +125,7 @@ const Hero = () => {
       <section className="">
         <div className="relative ">
           <Image
-            src={garden1.jpg}
+            src={hero}
             alt="hero"
             priority
             placeholder="blur"
