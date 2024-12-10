@@ -7,7 +7,6 @@ import Image from "next/image";
 import star8 from "@/public/Star 8.svg";
 import vector4 from "@/public/Vector 4.svg";
 import divider from "@/public/Rectangle 68.svg";
-import hero from "next/image";
 import hero from "@/public/space-copenhagen-the-stratford-architonic-rs-8-03-arcit18 1.png";
 import DateTimePicker from "./DateTimePicker";
 
@@ -109,7 +108,7 @@ const Hero = () => {
         <div className="h-full flex lg:flex-col justify-between md:gap-x-10 lg:gap-x-0 lg:ml-20 2xl:ml-0">
           <div className="flex justify-between">
             <div className="text-white-100 lg:text-sm  2xl:text-[1.375rem] uppercase border border-white-100 border-opacity-[0.32] rounded-full md:px-5   2xl:py-5 2xl:px-10 flex  items-center gap-x-4 2xl:gap-8 leading-none max-lg:hidden">
-              <Image src={star8} alt="star" className="max-2xl:w-[30px] h-auto animi-1" /> since 2010
+              <Image src={star8} alt="star" className="max-2xl:w-[30px] h-auto animi-1" /> since 2009
             </div>
 
             <button className="md:w-[45px] 2xl:w-[4.375rem] max-md:hidden pointer-events-none">
@@ -118,7 +117,8 @@ const Hero = () => {
           </div>
 
           <p className="max-md:text-center max-md:mx-auto w-[85%] md:w-[13.625rem] lg:w-[90%] xl:w-[21.875rem] text-white-100 text-sm lg:text-base largesceen:text-xl leading-[155.556%] max-md:block max-md:mt-6 max-md:leading-[164.286%]">
-            The luxurious hotel in the most beautiful Bor city with an exclusive restaurant, conference-hall, and art-bar.
+            The luxurious hotel in the most beautiful African
+            city with an exclusive restaurant, conference-hall, and art-bar.
           </p>
         </div>
       </div>
@@ -194,13 +194,13 @@ const Hero = () => {
 
       <div className="md:flex justify-between mt-4 lg:mt-12">
         <div className="max-md:hidden">
-          <p className="text-secondary underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem] mb-2">+254 702 048209</p>
-          <p className="text-white-100 underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem]">Bor, Jonglei State, South Sudan</p>
+          <p className="text-secondary underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem] mb-2">+38 032 297 50 20</p>
+          <p className="text-white-100 underline uppercase md:text-xs  lg:text-base 2xl:text-lg largesceen:text-[1.625rem]">Bor Town, Jonglei State, South Sudan</p>
         </div>
         <div>
           <p className=" md:text-right text-white-100 text-xs uppercase lg:text-base 2xl:text-lg largesceen:text-[1.625rem]">
-            Art & Conference<br />
-            Hall
+            Art & Congress <br />
+            hall
           </p>
         </div>
       </div>
