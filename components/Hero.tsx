@@ -10,7 +10,7 @@ import divider from "@/public/Rectangle 68.svg";
 import hero from "@/public/space-copenhagen-the-stratford-architonic-rs-8-03-arcit18 1.png";
 import DateTimePicker from "./DateTimePicker";
 
-const hero = () => {
+const Hero = () => {
   const [isPopupVisible, setIsPopupVisible] = useState(false);
   const popupRef = useRef<HTMLDivElement>(null);
 
@@ -93,6 +93,7 @@ const hero = () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
+  
 
   return (
     <main className=" bg-primary mt-0 py-14 lg:pt-20  px-5 md:px-[1.9rem] largesceen:px-14 fourk:px-44">
