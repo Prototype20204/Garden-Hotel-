@@ -7,10 +7,10 @@ import Image from "next/image";
 import star8 from "@/public/Star 8.svg";
 import vector4 from "@/public/Vector 4.svg";
 import divider from "@/public/Rectangle 68.svg";
-import Hero from "@/public/space-copenhagen-the-stratford-architonic-rs-8-03-arcit18 1.png";
+import hero from "@/public/space-copenhagen-the-stratford-architonic-rs-8-03-arcit18 1.png";
 import DateTimePicker from "./DateTimePicker";
 
-const Hero = () => {
+const hero = () => {
   const [isPopupVisible, setIsPopupVisible] = useState(false);
   const popupRef = useRef<HTMLDivElement>(null);
 
