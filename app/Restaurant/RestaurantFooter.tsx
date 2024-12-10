@@ -27,11 +27,11 @@ const RestaurantFooter = () => {
       id="contacts"
       className="pb-2 sm:pb-6 pt-12 md:pt-16 lg:pt-20 w-full h-full  px-5 md:px-[1.9rem] largesceen:px-14 fourk:px-44 desktop:pt-28 2xl:pt-36 largesceen:pb-6 bg-primary">
       <p className="text-white-100 text-2xl sm:text-3xl lg:text-[2.375rem] desktop:text-[3.125rem] largesceen:text-[5rem]   flex  h-full leading-normal w-fit mb-10  sm:mb-16 lg:mb-20 p-3 largesceen:p-5 border-b">
-        +38 032 297 50 20
+        +254 702 048209
       </p>
 
       <p className="text-xs uppercase lg:text-base desktop:text-lg largesceen:text-[1.625rem] text-white-100  text-end  mr-[10%]">
-        8 Lystopadovoho <br /> Chynu,Lviv
+        Bor, Jonglei State <br /> South Sudan 
       </p>
 
       <section className="py-8 sm:py-12 lg:py-20 desktop:py-32 largesceen:py-44 flex  justify-between relative w-full">
@@ -116,7 +116,7 @@ const RestaurantFooter = () => {
           </p>
 
           <p className="text-[0.813rem] md:text-sm text-white-100 text-opacity-70  pt-8 hidden lg:block">
-            ©2024 All rights reserved. BankHotel <br /> Designed by Ridwan https://ridwanyinus.vercel.app
+            ©2024 All rights reserved. Garden Resort Hotel<br /> Designed by M@ch
           </p>
         </div>
 
@@ -160,7 +160,7 @@ const RestaurantFooter = () => {
         </div>
       </section>
       <p className="text-[0.813rem] md:text-sm text-white-100 text-opacity-70 pt-6 text-center  sm:hidden">
-        ©2024 All rights reserved. BankHotel <br /> Designed by Ridwan https://ridwanyinus.vercel.app
+        ©2024 All rights reserved. Garden Resort Hotel<br /> Designed by M@ch
       </p>
     </footer>
   );
