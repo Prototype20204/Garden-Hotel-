@@ -36,7 +36,7 @@ const About = () => {
           <div className="sm:ml-10  lg:ml-24 desktop:ml-0 relative  largesceen:mt-20">
             <h3 className="text-3xl sm:text-[1.75rem] desktop:text-4xl largesceen:text-[3.125rem] text-white-100 tracking-[0.094rem] mb-8 w-fit capitalize">High quality</h3>
             <p className="text-white-100 text-[0.813rem] desktop:text-base 2xl:text-lg leading-[155.556%] w-[85%] sm:w-[70%] lg:w-[250px] desktop:w-[27.688rem] text-opacity-[0.64]">
-              The five-star Bank Hotel was reopened to visitors in 2016. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms,
+              The five-star Garden Resort Hotel was reopened to visitors in 2016. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms,
               numerous facilities, and exceptional service.
             </p>
             <Image src={labela} alt="label" className="absolute w-[5.313rem] lg:hidden top-1 right-6  label" />
