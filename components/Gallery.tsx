@@ -12,7 +12,7 @@ import { InfiniteMovingCards } from "./infinite-moving-cards";
 const Gallery = () => {
   const quotes = [
     {
-      quote: "Bank hotel Bank__hotel© Bank hotel Bank hotel Bank hotel Bank hotel Bank hotel Bank hotel",
+      quote: "Garden Resort Hotel © Garden Resort Hotel  Garden Hotel Garden Resort Hotel Garden Resort Hotel Garden Resort Hotel Garden Resort Hotel",
     },
   ];
   return (
@@ -33,7 +33,7 @@ const Gallery = () => {
       </p>
       <section className="flex pt-8 sm:pt-16 justify-between">
         <div className="flex flex-col justify-between">
-          <Image src={gallery 1} alt="Gallery-Image 1" className="max-sm:w-[95%] lg:w-[10.125rem] xl:w-[13rem] desktop:w-[16rem] 2xl:w-[17rem] largesceen:w-[19.5rem]" priority />
+          <Image src={gallery1} alt="Gallery-Image 1" className="max-sm:w-[95%] lg:w-[10.125rem] xl:w-[13rem] desktop:w-[16rem] 2xl:w-[17rem] largesceen:w-[19.5rem]" priority />
           <Image
             src={gallery2}
             priority
