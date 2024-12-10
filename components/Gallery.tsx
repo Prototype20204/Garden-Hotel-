@@ -28,7 +28,7 @@ const Gallery = () => {
         our <span className="block sm:inline-flex">Gallery</span>
       </h1>
       <p className=" text-white-100 text-[0.813rem]  leading-[155.556%] w-[85%]  text-opacity-[0.8] text-center block mx-auto my-8 sm:hidden">
-        The five-star Bank Hotel was reopened to visitors in 2016. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms, numerous
+        The five-star Garden Resort Hotel was reopened to visitors in 2016. The building was renovated and modernized to meet the expectations of the most demanding guests. We offer luxurious rooms, numerous
         facilities, and exceptional service.
       </p>
       <section className="flex pt-8 sm:pt-16 justify-between">
