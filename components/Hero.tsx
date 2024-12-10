@@ -7,7 +7,7 @@ import Image from "next/image";
 import star8 from "@/public/Star 8.svg";
 import vector4 from "@/public/Vector 4.svg";
 import divider from "@/public/Rectangle 68.svg";
-import image from "@/public/garden1.jpg";
+import hero from "@/public/garden1.jpg";
 import DateTimePicker from "./DateTimePicker";
 
 const Hero = () => {
@@ -125,7 +125,7 @@ const Hero = () => {
       <section className="">
         <div className="relative ">
           <Image
-            src={hero}
+            src={garden1.jpg}
             alt="hero"
             priority
             placeholder="blur"
