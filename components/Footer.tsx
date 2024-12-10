@@ -118,8 +118,8 @@ const Footer = () => {
           </p>
 
           <p className='text-[0.813rem] md:text-sm text-primary text-opacity-70  pt-8 hidden lg:block'>
-            ©2024 All rights reserved. Garden Resort Hotel<br /> Designed by M@ch <a href='https://ridwanyinus.is-a.dev'>ridwanyinus.is-a.dev</a>
-          </p>
+            ©2024 All rights reserved. Garden Resort Hotel<br /> Designed by M@ch 
+         </p>
         </div>
 
         <div className='gap-y-5 sm:gap-y-12 flex flex-col'>
