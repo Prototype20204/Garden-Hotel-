@@ -31,7 +31,6 @@ const Navbar: React.FC = () => {
   return (
     <nav className={`${scroll ? "is-sticky" : ""} bg-primary flex px-5 md:px-[1.9rem] largesceen:px-14 fourk:px-44 pt-5 justify-between items-center mb-0`}>
       <div>
-        <Link href="/" className="ml-4 text-white-100 capitalize lg:text-base desktop:text-xl leading-none font-medium z-[999] relative logo">
           Garden Resort Hotel 
         </Link>
       </div>
